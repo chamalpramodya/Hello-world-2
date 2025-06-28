@@ -1,5 +1,6 @@
 import socket
 
+
 #soc creation
 s = socket.socket()
 
